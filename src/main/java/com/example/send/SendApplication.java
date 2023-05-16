@@ -10,4 +10,6 @@ public class SendApplication {
         SpringApplication.run(SendApplication.class, args);
     }
 
+
+
 }
